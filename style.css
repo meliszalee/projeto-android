@@ -37,7 +37,7 @@ header{
     text-align: center;
     
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 
 header > h1{
@@ -67,7 +67,7 @@ nav{
     background-color: var(--cor5);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
 
-    padding: 12px;
+    padding-bottom: 20px;
     padding-top: 20px;
     text-align: center;
 }
