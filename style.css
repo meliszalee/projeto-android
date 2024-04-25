@@ -37,6 +37,7 @@ header{
     text-align: center;
     
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 header > h1{
@@ -67,7 +68,7 @@ nav{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.45);
 
     padding: 12px;
-    padding-top: 60px;
+    padding-top: 20px;
     text-align: center;
 }
 
@@ -256,5 +257,4 @@ footer{
 
 #dev:hover{
     color: var(--cor3);
-    text-decoration: underline;
-}
+    text-decoration: underline;
