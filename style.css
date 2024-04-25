@@ -33,7 +33,7 @@ body{
 
 header{
     height: 150px;
-    background-image: linear-gradient(to top, var(--cor5), var(--cor2));
+    background-image: linear-gradient(to top, var(--cor5), var(--cor3));
     text-align: center;
     
     padding-top: 40px;
@@ -257,4 +257,5 @@ footer{
 
 #dev:hover{
     color: var(--cor3);
-    text-decoration: underline;
+    text-decoration: underline;
+}
