@@ -1,5 +1,5 @@
-*README
+Meu primeiro site
 
-<iframe src="index.html" width="500" height="500">
-    <p>Prévia do site</p>
-</iframe>
+*Feito a partir dos cursos do Curso em Vídeo
+
+*Site de curiosidades a respeito do símbolo do Android
